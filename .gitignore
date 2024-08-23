@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 todo.md
 my_todo.md
+my_venv/
