@@ -1,0 +1,7 @@
+transformers
+Pillow
+gradio
+openai
+polars
+seaborn
+scikit-learn
